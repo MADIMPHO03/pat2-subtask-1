@@ -10,7 +10,7 @@ Over time, Morse code evolved to accommodate different alphabets, leading to the
 
 ##How the System Works
 
-Morse code uses a binary system:
+Morse code uses a binary system
 - A **dot** (`.`) represents a short signal (typically 1 unit of time).
 - A **dash** (`-`) represents a long signal (typically 3 units of time).
 - Letters are separated by a short pause (3 units).
