@@ -37,7 +37,7 @@ int main() {
             cout << c << ": " << code << endl;
             fullMorse += code + "   ";
         }
-    }
+ }
 
     cout << "\nFull Morse Code Message:\n" << fullMorse << endl;
     return 0;
