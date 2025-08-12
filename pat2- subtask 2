@@ -14,8 +14,7 @@ string morse[26] = {
     ".---", "-.-", ".-..", "--", "-.", "---", ".--.", "--.-", ".-.", // J–R
     "...", "-", "..-", "...-", ".--", "-..-", "-.--", "--.."         // S–Z
   };
-int main() 
-{
+int main() {
     string message;
     cout << "Enter a short message in English: ";
     getline(cin, message);
