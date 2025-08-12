@@ -1,4 +1,3 @@
-Add your C++ source code here.
 #include <iostream>
 #include <string>
 #include <cctype> // For isalpha and toupper
